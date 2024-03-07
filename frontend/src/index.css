@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Merienda', cursive;
+  color: #fff;
+}
+
+body{
+  height: auto;
+  /* opacity: 0.7; */
+  background: #111;
+}
+
+/* for display none on Back and close options */
+.block{
+  display: none;
+}
+
+/* img{
+  width: 100px;
+  height: 100px;
+} */
